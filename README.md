@@ -1,0 +1,2 @@
+# ExercicisoCharp
+Alguns exercicios simples
